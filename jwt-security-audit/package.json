@@ -1,0 +1,6 @@
+﻿{
+  "name": "jwt-security-audit",
+  "version": "1.3.0",
+  "description": "Automated security auditor for JSON Web Token implementations",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+﻿{
+  "name": "cors-checker-action",
+  "version": "1.0.5",
+  "description": "Audit CORS header configurations in CI/CD pipelines",
+  "license": "MIT"
+}
